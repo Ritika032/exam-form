@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 16px;
+    background: grey;
+    font-size: 0.7cm;
+    border-radius: 20pt;
+}
+
+li a:hover {
+    text-decoration: none;
+    color: white;
+    background: yellow;
+}
